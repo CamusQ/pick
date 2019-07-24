@@ -9,4 +9,4 @@
 ---
 
 - SpringBoot
-<a href="src/springboot.md">SpringBootl</a>
+<a href="src/springboot.md">SpringBoot</a>
